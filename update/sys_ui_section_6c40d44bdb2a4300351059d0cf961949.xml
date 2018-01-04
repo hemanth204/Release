@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6c40d44bdb2a4300351059d0cf961949" sys_domain="global" table="x_69202_hotel_rese_reservation_form" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reservation_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>c2bf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_the_guest</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>46bf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_arrival</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>c6bf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>4abf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_booking</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>cabf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_check_out</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>4ebf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>care_taker</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>cebf2e90db430300351059d0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>42bf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>which_food_do_you_prefer</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>c2bf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>food_items</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>46bf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>c6bf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>4abf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>food_required</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>cabf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>samp121</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>4ebf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tes</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>cebf2e90db430300351059d0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>42bf2e90db430300351059d0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>c2bf2e90db430300351059d0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_69202_hotel_rese_reservation_form.x_69202_hotel_rese_new_table.type</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-11 12:48:25</sys_created_on>
+            <sys_id>46bf2e90db430300351059d0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-11 12:48:25</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_date</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 16:53:18</sys_created_on>
+            <sys_id>5774f443dbc30300351059d0cf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 16:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>final_date</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 16:53:33</sys_created_on>
+            <sys_id>3a84b843dbc30300351059d0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69202_hotel_rese_reservation_form" sys_domain="global" view="Default view">6c40d44bdb2a4300351059d0cf961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 16:53:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 17:43:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c40d44bdb2a4300351059d0cf961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_69202_hotel_rese_reservation_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel Reservation" source="x_69202_hotel_rese">86bd8cc7db2a4300351059d0cf9619bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel Reservation">86bd8cc7db2a4300351059d0cf9619bc</sys_scope>
+            <sys_update_name>sys_ui_section_6c40d44bdb2a4300351059d0cf961949</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 17:43:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

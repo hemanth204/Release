@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="food_items" label="Food Items" language="en" table="x_69202_hotel_rese_reservation_form">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>food_items</element>
+            <help/>
+            <hint/>
+            <label>Food Items</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <plural>Food Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:27:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f33a5003db6a4300351059d0cf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Food Items</sys_name>
+            <sys_package display_value="Hotel Reservation" source="x_69202_hotel_rese">86bd8cc7db2a4300351059d0cf9619bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel Reservation">86bd8cc7db2a4300351059d0cf9619bc</sys_scope>
+            <sys_update_name>sys_documentation_x_69202_hotel_rese_reservation_form_food_items_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:27:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

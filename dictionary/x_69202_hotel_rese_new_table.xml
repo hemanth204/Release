@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="New Table" max_length="40" name="x_69202_hotel_rese_new_table" type="collection">
+        <element label="Sample" max_length="40" name="sample" type="string"/>
+        <element label="Type" max_length="32" name="type" reference="x_69202_hotel_rese_reservation_form" type="reference"/>
+        <index name="index">
+            <element name="type"/>
+        </index>
+    </element>
+</database>

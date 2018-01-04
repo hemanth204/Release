@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,text_index_translations=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="104" text_index="true" type="collection">
+        <element label="Ta Num" max_length="32" name="x_69202_hotel_rese_ta_num" reference="x_69202_hotel_rese_reservation_form" type="reference"/>
+    </element>
+</database>

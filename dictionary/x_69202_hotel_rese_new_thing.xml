@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="new thing" max_length="40" name="x_69202_hotel_rese_new_thing" type="collection">
+        <element label="Date 1" max_length="40" name="date_1" type="glide_date"/>
+        <element label="Date 2" max_length="40" name="date_2" type="string"/>
+    </element>
+</database>

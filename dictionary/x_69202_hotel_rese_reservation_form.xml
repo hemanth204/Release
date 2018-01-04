@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Reservation  Form" max_length="40" name="x_69202_hotel_rese_reservation_form" sizeclass="51" type="collection">
+        <element default="100" label="Address" max_length="40" name="address" type="string"/>
+        <element label="Care Taker" max_length="32" name="care_taker" reference="sys_user" type="reference"/>
+        <element label="Date of Arrival" max_length="40" name="date_of_arrival" type="glide_date"/>
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Date of Booking" max_length="40" name="date_of_booking" type="glide_date" use_dynamic_default="true"/>
+        <element label="Date of Check out?" max_length="40" name="date_of_check_out" type="glide_date"/>
+        <element label="Final Date" max_length="40" name="final_date" type="glide_date"/>
+        <element choice="1" label="Food Items" max_length="40" name="food_items" type="string">
+            <choice>
+                <element dependent_value="1" label="Biriyani" value="biriyani"/>
+                <element dependent_value="2" label="Biriyani" value="Biriyani"/>
+                <element dependent_value="1" label="Drinks" value="Drinks"/>
+                <element dependent_value="3" label="Noodles" value="Noodles"/>
+                <element dependent_value="3" label="Sandwitch" value="Sandwitch"/>
+            </choice>
+        </element>
+        <element label="Food Required?" max_length="40" name="food_required" type="boolean"/>
+        <element label="Initial Date" max_length="40" name="initial_date" type="glide_date"/>
+        <element label="Name of the Guest" max_length="40" name="name_of_the_guest" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Reservation Number" max_length="40" name="reservation_number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element attributes="scale=4" label="Samp121" max_length="40" name="samp121" type="float"/>
+        <element label="Serial" max_length="32" name="serial" reference="x_69202_hotel_rese_5thdec_table" type="reference"/>
+        <element attributes="scale=5" label="Tes" max_length="20" name="tes" type="decimal"/>
+        <element choice="1" label="Which Food do you Prefer?" max_length="40" name="which_food_do_you_prefer" type="choice">
+            <choice>
+                <element label="Italian" sequence="2" value="1"/>
+                <element label="Indian" sequence="5" value="2"/>
+                <element label="American" sequence="6" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

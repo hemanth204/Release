@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="5thDec table" max_length="40" name="x_69202_hotel_rese_5thdec_table" type="collection">
+        <element label="Date of Arrival" max_length="40" name="date_of_arrival" type="glide_date_time"/>
+        <element label="Name " max_length="40" name="name" type="string"/>
+        <element label="Ref Ex" max_length="32" name="ref_ex" reference="alm_stock_rule" type="reference"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Serial Number" max_length="40" name="serial_number" type="string" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="ref_ex"/>
+        </index>
+    </element>
+</database>

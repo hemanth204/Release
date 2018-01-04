@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="food_items" table="x_69202_hotel_rese_reservation_form" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>food_items</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Biriyani</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:27:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>354adccfdb2a4300351059d0cf961919</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:29:51</sys_updated_on>
+            <value>biriyani</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>food_items</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Biriyani</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:30:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ada9403db6a4300351059d0cf9619d7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:30:23</sys_updated_on>
+            <value>Biriyani</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>food_items</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drinks</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7adccfdb2a4300351059d0cf961919</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:30:04</sys_updated_on>
+            <value>Drinks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>food_items</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Noodles</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:28:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e6a5003db6a4300351059d0cf9619ff</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:30:24</sys_updated_on>
+            <value>Noodles</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>food_items</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sandwitch</label>
+            <language>en</language>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:27:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f15a5003db6a4300351059d0cf961956</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:30:27</sys_updated_on>
+            <value>Sandwitch</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>food_items</element>
+            <name>x_69202_hotel_rese_reservation_form</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 18:27:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>755a1003db6a4300351059d0cf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>food_items</sys_name>
+            <sys_package display_value="Hotel Reservation" source="x_69202_hotel_rese">86bd8cc7db2a4300351059d0cf9619bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel Reservation">86bd8cc7db2a4300351059d0cf9619bc</sys_scope>
+            <sys_update_name>sys_choice_x_69202_hotel_rese_reservation_form_food_items</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 18:27:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
